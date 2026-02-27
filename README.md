@@ -119,18 +119,6 @@ Additional amplitude-based descriptors may also be available depending on the da
 
 ---
 
-## 📄 Metadata
-All experimental variables and hierarchical relationships are documented in **Metadata.csv**, including:
-
-- Variable names and abbreviations  
-- Units  
-- Experimental role (input, noise, output)  
-- Hierarchical embedding  
-
-This metadata enables complete dataset reuse without access to the original CNC setup.
-
----
-
 ## 📌 Notes on Data Organization
 
 - The dataset is provided exclusively at the **observation level**.
