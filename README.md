@@ -66,9 +66,7 @@ This repository is associated with the following research work:
 2. Open the `.csv` or `.xlsx` files using **Python (pandas)**, **MATLAB**, **R**, **Microsoft Excel**, or equivalent tools.  
 3. Use the datasets as follows:  
 
-   - **Raw data:** replicate-level surface roughness measurements  
-   - **Metadata:** experimental hierarchy and factor organization  
-
+   - [**Raw Replicates Measurements**](Raw_replicates_measurements.csv) replicate-level surface roughness measurements  
 ---
 
 ## 📂 Repository Structure
@@ -77,7 +75,6 @@ This repository is associated with the following research work:
 |---------------|-------------|
 | [**README**](README.md) | Documentation of the dataset and usage guidelines. |
 | [**Raw Replicates Measurements**](Raw_replicates_measurements.csv) | Observation-level surface roughness measurements. |
-| [**Metadata**](data/processed/Metadata.csv) | Mapping of runs, factors, and hierarchical structure. |
 | [**LICENSE**](LICENSE) | Dataset license information. |
 
 ---
