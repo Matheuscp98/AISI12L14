@@ -150,7 +150,7 @@ Machining experiments were performed on a **CNC lathe** using:
 
 The experiments were conducted under controlled laboratory conditions to ensure repeatability and measurement reliability.
 
-## License
+## 📜 License
 This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).  
 See the [LICENSE](LICENSE) file for details.
 
@@ -174,9 +174,3 @@ See the [LICENSE](LICENSE) file for details.
 ---
 
 > _Feel free to open issues or PRs, or reach out for collaboration or questions!_
-
----
-
-## 📜 License
-This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).  
-See the [LICENSE](LICENSE) file for details.
