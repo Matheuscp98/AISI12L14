@@ -112,6 +112,7 @@ Surface roughness parameters obtained directly from profilometer measurements:
 | `Ra` | Arithmetic mean roughness | μm |
 | `Rt` | Total height of roughness profile | μm |
 | `Ry` | Maximum peak-to-valley height | μm |
+| `Rz` | Average maximum height of the profile | μm |
 | `Rq` | Root mean square roughness | μm |
 | `Sm` | Mean spacing of profile irregularities | μm |
 
