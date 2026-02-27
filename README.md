@@ -66,7 +66,7 @@ This repository is associated with the following research work:
 2. Open the `.csv` or `.xlsx` files using **Python (pandas)**, **MATLAB**, **R**, **Microsoft Excel**, or equivalent tools.  
 3. Use the datasets as follows:  
 
-   - [**Data AISIL14**](data.csv) replicate-level surface roughness measurements  
+   - [**Data 12L14**](data.csv) replicate-level surface roughness measurements  
 ---
 
 ## 📂 Repository Structure
@@ -74,7 +74,7 @@ This repository is associated with the following research work:
 | File / Folder | Description |
 |---------------|-------------|
 | [**README**](README.md) | Documentation of the dataset and usage guidelines. |
-| [**Data AISIL14**](data.csv) | Observation-level surface roughness measurements. |
+| [**Data 12L14**](data.csv) | Observation-level surface roughness measurements. |
 | [**LICENSE**](LICENSE) | Dataset license information. |
 
 ---
