@@ -1,0 +1,8 @@
+﻿Variable,Type,Abbreviation,Unit
+Cutting Speed,Input,Vc,m/min
+Feed rate,Input,f,mm/rev
+Depth of Cut,Input,d,mm
+Shaft Diameter,Noise,"z1 (D30, D50)",mm
+Tool Flank Wear,Noise,z2,mm
+Measurement position,Noise,z3,mm
+Surface Roughness,Output,"RaRy,Rz,Rq,Rt,Sm",μm
