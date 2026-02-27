@@ -26,9 +26,9 @@ Each record corresponds to a specific combination of:
 
 evaluated under multiple noise conditions defined by:
 
-- Shaft diameter ('ϕ')
-- Tool flank wear ('VP')
-- Axial measurement position ('P')
+- Shaft diameter (`ϕ`)
+- Tool flank wear (`VP')
+- Axial measurement position (`P`)
 
 With **radial measurement locations and replicates nested within the hierarchy**.
 
