@@ -1,6 +1,6 @@
 # 🔩 AISI 12L14 Dataset 
 
-**DOI:** **DOI:** [10.5281/zenodo.17438392](https://doi.org/10.5281/zenodo.17438392)
+**DOI:** [10.5281/zenodo.17438392](https://doi.org/10.5281/zenodo.17438392)
 
 ---
 
