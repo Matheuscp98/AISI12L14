@@ -22,13 +22,13 @@ Each record corresponds to a specific combination of:
 
 - Cutting speed (`Vc`)
 - Feed rate (`f`)
-- Machining depth (`d`)
+- Depth of cut (`d`)
 
 evaluated under multiple noise conditions defined by:
 
 - Shaft diameter (`ϕ`)
-- Tool flank wear (`VP')
-- Axial measurement position (`P`)
+- Tool flank wear (`VB')
+- Measurement position (`P`)
 
 With **radial measurement locations and replicates nested within the hierarchy**.
 
@@ -87,7 +87,7 @@ This repository is associated with the following research work:
 |--------|-------------|------|-------|
 | `Vc` | Cutting speed | m/min | 220.00 – 340.00 |
 | `f` | Feed rate | mm/rev | 0.08 – 0.12 |
-| `d` | Machining Depth | mm | 0.70 – 1.20 |
+| `d` | Depth of cut | mm | 0.70 – 1.20 |
 
 ---
 
@@ -95,8 +95,8 @@ This repository is associated with the following research work:
 
 | Symbol | Description | Unit | Levels |
 |--------|-------------|------|--------|
-| `ϕ` | Shaft diameter | mm | 30, 50 |
-| `VB` | Tool flank wear | mm | 0.0 (new), 0.30 (worn) |
+| `ϕ` | Shaft diameter | mm | 30, -,  50 |
+| `VB` | Tool flank wear | mm | 0.0 (new), -, 0.30 (worn) |
 | `P` | Axial measurement position | – | Chuck, Middle, Live centre |
 
 Radial positions (0°, 90°, 180°, 270°) and replicates are **nested within axial positions**.
@@ -110,10 +110,10 @@ Surface roughness parameters obtained directly from profilometer measurements:
 | Symbol | Description | Unit |
 |--------|-------------|------|
 | `Ra` | Arithmetic mean roughness | μm |
-| `Rt` | Total height of roughness profile | μm |
 | `Ry` | Maximum peak-to-valley height | μm |
 | `Rz` | Average maximum height of the profile | μm |
 | `Rq` | Root mean square roughness | μm |
+| `Rt` | Total height of roughness profile | μm |
 | `Sm` | Mean spacing of profile irregularities | μm |
 
 Additional amplitude-based descriptors may also be available depending on the dataset version.
