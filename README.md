@@ -95,7 +95,7 @@ This repository is associated with the following research work:
 
 | Symbol | Description | Unit | Levels |
 |--------|-------------|------|--------|
-| `ϕ` | Shaft diameter | mm | 30, -,  50 |
+| `Φ` | Shaft diameter | mm | 30, -,  50 |
 | `VB` | Tool flank wear | mm | 0.0 (new), -, 0.30 (worn) |
 | `P` | Axial measurement position | – | Chuck, Middle, Live centre |
 
