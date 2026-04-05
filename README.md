@@ -1,4 +1,4 @@
-# 🔩 AISI 12L14 Dataset 
+# 🔩 Tabular dataset for analysis of AISI 12L14 free-cutting steel turning under uncertainty conditions
 
 **DOI:** [10.5281/zenodo.17438392](https://doi.org/10.5281/zenodo.17438392)
 
